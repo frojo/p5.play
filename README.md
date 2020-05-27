@@ -15,6 +15,8 @@ want to *use* p5.play, please see [p5play.molleindustria.org][].
 
 ### Quick Start
 
+If this is your first time contributing to an open-source project, read this [primer][] to get familiar with the basic workflow.
+
 First install [node.js][]. Then run:
 
 ```
@@ -59,3 +61,4 @@ welcome page.
   [p5play.molleindustria.org/examples]: http://p5play.molleindustria.org/examples/
   [node.js]: https://nodejs.org/en/
   [YUIDoc]: http://yui.github.io/yuidoc/
+  [primer]: https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project
